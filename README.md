@@ -31,7 +31,7 @@
 - **FastAPI** 0.115 + **SQLAlchemy** 2.0 (sync ORM)
 - **SQLite** (개발/데모) — `DATABASE_URL` 변경만으로 PostgreSQL 전환
 - **JWT** (python-jose) + **bcrypt** (passlib)
-- **Google Gemini 1.5-flash** — 정책 요약 + 독성 분류기
+- **GCP API** — 정책 요약 + 독성 분류기
 
 ### Frontend
 - **Expo SDK 54** + **expo-router** (파일 기반 라우팅)
