@@ -97,6 +97,7 @@ Agora/
 - **Node.js** 18+
 - **Google Gemini API 키** (선택 — 없으면 AI 기능만 비활성)
   - 무료 발급: https://aistudio.google.com/app/apikey
+- **OpenAPI API 키**
 
 ---
 
